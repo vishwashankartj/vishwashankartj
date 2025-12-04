@@ -8,18 +8,6 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools  
-
-| Category | Key Technologies & Concepts |
-| :--- | :--- |
-| **Languages** | Python, PySpark, R, Bash/sh, Java, SQL |
-| **Data Services** | Databricks, AWS, Dataleap, Snowflake, Plotly, Tableau |
-| **Databases** | MongoDB, DynamoDB, PostgreSQL, MySQL, OracleDB, Abase, Clickhouse, Redis, Neo4j, ElasticSearch |
-| **Graph Analytics** | Community Detection, Node Embedding, Graph Convolutional Neural Netorks (GCNs), Variational AutoEncoders |
-| **ML/DL** | Supervised and Unsupervised Models, PCA, Feature Engineering, CNNs, Logistic Regression |
-
----
-
 ## 🚀 Projects & Portfolio  
 
 Feel free to check out my portfolio site linked above for full project details — you’ll find live demos, source code, and project write-ups there.  
