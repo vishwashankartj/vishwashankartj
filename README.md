@@ -31,10 +31,8 @@ Feel free to explore the repos — some are structured, some are… an adventure
 ---
 
 ## 📫 Let’s Connect  
-- 🌐 Portfolio: vishwashankartj-portfolio.netlify.app  
-- 💻 GitHub: github.com/vishwashankartj  
-- 💼 LinkedIn: *(you can add if you want)*  
-- ✉️ Email: *(optional)*  
+- 💻 GitHub: *github.com/vishwashankartj*
+- 💼 LinkedIn: *in/vishwashankar-t-janakiraman/)*  
 
 ---
 
