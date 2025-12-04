@@ -33,7 +33,6 @@ Feel free to explore the repos — some are structured, some are… an adventure
 ## 📫 Let’s Connect  
 - 💻 GitHub: **[github.com/vishwashankartj](https://github.com/vishwashankartj)**  
 - 💼 LinkedIn: **[linkedin.com/in/vishwashankar-t-janakiraman](https://www.linkedin.com/in/vishwashankar-t-janakiraman/)**  
-- ✨ Portfolio: **[vishwashankartj-portfolio.netlify.app](https://vishwashankartj-portfolio.netlify.app/)**  
 
 ---
 
