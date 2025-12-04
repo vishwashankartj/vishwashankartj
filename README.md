@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋, I'm Vishwashankar  
 
-<!--
-**vishwashankartj/vishwashankartj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 I’m currently building AI Agents and LLM RAG bots.
+### 🌱 I’m exploring AI applications, open source, and building meaningful projects  
 
-Here are some ideas to get you started:
+## 💻 My GitHub  
+[github.com/vishwashankartj](https://github.com/vishwashankartj)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack & Tools  
+
+| Category | Key Technologies & Concepts |
+| :--- | :--- |
+| **Languages** | Python, PySpark, R, Bash/sh, Java, SQL |
+| **Data Services** | Databricks, AWS, Dataleap, Snowflake, Plotly, Tableau |
+| **Databases** | MongoDB, DynamoDB, PostgreSQL, MySQL, OracleDB, Abase, Clickhouse, Redis, Neo4j, ElasticSearch |
+| **Graph Analytics** | Community Detection, Node Embedding, Graph Convolutional Neural Netorks (GCNs), Variational AutoEncoders |
+| **ML/DL** | Supervised and Unsupervised Models, PCA, Feature Engineering, CNNs, Logistic Regression |
+
+---
+
+## 🚀 Projects & Portfolio  
+
+Feel free to check out my portfolio site linked above for full project details — you’ll find live demos, source code, and project write-ups there.  
+
+Also, you can browse my repos below 👇  
+
+<https://vishwashankartj-portfolio.netlify.app/>  
+
+---
+
+## 📫 Let’s Connect  
+
+- Portfolio: [vishwashankartj-portfolio.netlify.app](https://vishwashankartj-portfolio.netlify.app/)  
+- GitHub: [github.com/vishwashankartj](https://github.com/vishwashankartj)  
+- (Add LinkedIn / Twitter / Email if you want)  
