@@ -1,25 +1,42 @@
 # Hi 👋, I'm Vishwashankar  
 
-### 🔭 I’m currently building AI Agents and LLM RAG bots.
-### 🌱 I’m exploring AI applications, open source, and building meaningful projects  
+I build **AI Agents**, **RAG bots**, and occasionally break things just to fix them better 😄  
+Always experimenting, always learning, always caffeinated.  
 
-## 💻 My GitHub  
-[github.com/vishwashankartj](https://github.com/vishwashankartj)  
+---
+
+## ⚡ What I'm Up To  
+- 🤖 Building AI agents that *actually* think (well… sorta)  
+- 🧠 Playing with LLMs, embeddings, and all things “intelligent-ish”  
+- 🔍 Exploring cool open-source projects & contributing when inspiration strikes  
+- 🎯 Turning tiny ideas → fun projects → working prototypes  
 
 ---
 
 ## 🚀 Projects & Portfolio  
+If you want to see the cool stuff I've been tinkering with 👇  
+**✨ Portfolio:** https://vishwashankartj-portfolio.netlify.app/
 
-Feel free to check out my portfolio site linked above for full project details — you’ll find live demos, source code, and project write-ups there.  
+My GitHub also has some chaotic experiments that eventually turned into something useful.  
+Feel free to explore the repos — some are structured, some are… an adventure. 😅
 
-Also, you can browse my repos below 👇  
+---
 
-<https://vishwashankartj-portfolio.netlify.app/>  
+## 🛠️ Tools I Play With  
+- 🧩 Python, JS, TypeScript  
+- ⚡ LLMs, Vector DBs, RAG pipelines  
+- 🌀 PySpark, Databricks, AWS  
+- 🐳 Docker (because containers > chaos)  
 
 ---
 
 ## 📫 Let’s Connect  
+- 🌐 Portfolio: vishwashankartj-portfolio.netlify.app  
+- 💻 GitHub: github.com/vishwashankartj  
+- 💼 LinkedIn: *(you can add if you want)*  
+- ✉️ Email: *(optional)*  
 
-- Portfolio: [vishwashankartj-portfolio.netlify.app](https://vishwashankartj-portfolio.netlify.app/)  
-- GitHub: [github.com/vishwashankartj](https://github.com/vishwashankartj)  
-- (Add LinkedIn / Twitter / Email if you want)  
+---
+
+⭐ Fun Fact: Half of my “quick experiments” turn into full projects.  
+The other half? Let’s just call them “learning opportunities.” 😅
