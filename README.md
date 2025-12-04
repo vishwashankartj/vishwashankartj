@@ -15,7 +15,7 @@ Always experimenting, always learning, always caffeinated.
 
 ## 🚀 Projects & Portfolio  
 If you want to see the cool stuff I've been tinkering with 👇  
-**✨ Portfolio:** https://vishwashankartj-portfolio.netlify.app/
+**✨ Portfolio:** **[vishwashankartj-portfolio.netlify.app](https://vishwashankartj-portfolio.netlify.app/)**
 
 My GitHub also has some chaotic experiments that eventually turned into something useful.  
 Feel free to explore the repos — some are structured, some are… an adventure. 😅
@@ -31,8 +31,9 @@ Feel free to explore the repos — some are structured, some are… an adventure
 ---
 
 ## 📫 Let’s Connect  
-- 💻 GitHub: *github.com/vishwashankartj*
-- 💼 LinkedIn: *in/vishwashankar-t-janakiraman/)*  
+- 💻 GitHub: **[github.com/vishwashankartj](https://github.com/vishwashankartj)**  
+- 💼 LinkedIn: **[linkedin.com/in/vishwashankar-t-janakiraman](https://www.linkedin.com/in/vishwashankar-t-janakiraman/)**  
+- ✨ Portfolio: **[vishwashankartj-portfolio.netlify.app](https://vishwashankartj-portfolio.netlify.app/)**  
 
 ---
 
